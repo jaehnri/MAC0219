@@ -5,7 +5,7 @@ TIMEFORMAT=%R
 EXECUTIONS=100
 
 # Compile both programs
-go build montecarlo.go
+go build -ldflags="-s -w" montecarlo.go
 kotlinc Montecarlo.kt -d Montecarlo.jar
 
 GO_TIME=0.0
