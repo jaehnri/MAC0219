@@ -1,0 +1,17 @@
+### Above combination ignores all files without extensions (C executables)
+# Ignore all files
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+
+### IDE ###
+.idea
+.DS_Store
+
+### JVM ###
+*.jar
+
+### C ###
+*.o
