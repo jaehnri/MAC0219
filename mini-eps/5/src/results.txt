@@ -1,0 +1,280 @@
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 51.798678s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.744465s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 41.508107s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.885983s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 39.122617s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.770540s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.507272s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.538820s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.568778s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.377906s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 37.447434s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.472397s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 37.716243s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.369920s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.680080s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.392042s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.929853s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.657295s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 39.944641s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.686970s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.230115s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.607804s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.561267s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.314287s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.485830s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.748245s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.462983s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.424805s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.555072s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.779050s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 39.081195s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 6.023610s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 39.333147s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.947006s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 39.901625s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.373104s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 38.319260s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.639492s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+make[1]: Entering directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
+gcc  -Wall -pedantic -g -O2 -o test test.o matrix.o time_extra.o
+./test
+Executando dgemm_0...
+    Tempo gasto em matrix_dgemm_0: 37.697126s
+    Resultado OK!
+    Tempo OK!
+
+Executando dgemm_1...
+    Tempo gasto em matrix_dgemm_1: 5.690884s
+    Resultado OK!
+    Tempo OK!
+
+make[1]: Leaving directory '/home/joao/USP/7 Semestre/MAC0219/mini-eps/5/src'
