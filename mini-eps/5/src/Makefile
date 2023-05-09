@@ -28,6 +28,7 @@ load-test: main
 collect-results:
 	cat results.txt | grep matrix_dgemm_0 | cut -d ' ' -f 9
 	cat results.txt | grep matrix_dgemm_1 | cut -d ' ' -f 9
+	cat results.txt | grep matrix_dgemm_2 | cut -d ' ' -f 9
 
 .PHONY: clean
 clean:
