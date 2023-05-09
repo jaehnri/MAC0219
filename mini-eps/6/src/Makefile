@@ -22,6 +22,13 @@ matrix.o: matrix.c matrix.h
 time_extra.o: time_extra.c time_extra.h
 	$(CC) $(CEXTRA) $(CFLAGS) -c $<
 
+load-test: main
+	./load-test.sh
+
+collect-results:
+	cat results.txt | grep matrix_dgemm_0 | cut -d ' ' -f 9
+	cat results.txt | grep matrix_dgemm_1 | cut -d ' ' -f 9
+
 .PHONY: clean
 clean:
 	$(RM) *.o main test
