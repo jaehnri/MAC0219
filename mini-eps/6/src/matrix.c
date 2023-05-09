@@ -5,6 +5,7 @@
 /* Módulo de x*/
 #define ABS(x) ((x > 0)? (x): -(x))
 
+#define BLOCK_SIZE 512
 
 void matrix_fill_rand(int n, double *restrict _A)
 {
@@ -46,7 +47,15 @@ void matrix_dgemm_1(int n, double *restrict _C, double *restrict _A, double *res
     #define B(i, j) _B[n*(i) + (j)]
     #define C(i, j) _C[n*(i) + (j)]
 
-    /* Código do mini EP 5 aqui */
+    int i, j, k;
+
+    for (i = 0; i < n; ++i) {
+        for (k = 0; k < n; ++k) {
+            for (j = 0; j < n; ++j) {
+                C(i, j) += A(i, k) * B(k, j);
+            }
+        }
+    }
 
     #undef A
     #undef B
@@ -67,6 +76,20 @@ void matrix_dgemm_2(int n, double *restrict _C, double *restrict _A, double *res
      * 1 a 2 segundos, ou até metade do tempo de dgemm_1.
      */
     /* Código do mini EP 6 aqui */
+
+    int i, j, k, kk, jj;
+
+    for (kk = 0; kk < n; kk += BLOCK_SIZE) {
+        for (jj = 0; jj < n; jj += BLOCK_SIZE) {
+            for (i = 0; i < n; i++) {
+                for (k = kk; k < kk + BLOCK_SIZE; k++) {
+                    for (j = jj; j < jj + BLOCK_SIZE; j++) {
+                        C(i, j) += A(i, k)* B(k, j);
+                    }
+                }
+            }
+        }
+    }
 
     #undef A
     #undef B
